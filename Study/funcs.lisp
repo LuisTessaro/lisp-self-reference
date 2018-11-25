@@ -64,7 +64,7 @@
 
 
 
-;; example funcitons
+;; exemplos de funções
 
 (defun iterative-dots (z)
   (if (not (> z 0))
